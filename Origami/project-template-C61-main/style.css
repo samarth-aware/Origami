@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#hello{
+    background-color: rgb(182, 220, 238);
+}
+
+#ori1{
+   background-color:lightcoral;
+}
+
